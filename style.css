@@ -2,19 +2,19 @@
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-#sla1 {
+#Top-bolos-da-feirinha-da-esquina {
     color: blue;
     border-style: solid;
     background-color: black;
 }
 
-#sla2 {
+#Top-linhas-do-HTML {
     color: red;
     border-style: solid;
     background-color: black;
 }
 
-#sla2 list::marker {
-    font-size: 24px;
-    color: antiquewhite;
+#Top-linhas-do-HTML li::marker {
+    font-size: 25px;
+    color: rgb(255, 255, 255);
 }
